@@ -1,0 +1,1 @@
+A content-based movie recommendation system built in Google Colab that uses TF-IDF vectorisation and Cosine Similarity to analyze film metadata. It leverages fuzzy string matching to handle user typos and instantly suggest the top 30 most textually similar movies.
