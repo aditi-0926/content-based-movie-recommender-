@@ -22,6 +22,3 @@ pip install numpy pandas scikit-learn
    python movie_recommendation.py
    ```
 3. Enter your favourite movie when prompted (e.g., `Iron Man` or even misspelled like `Ironman`). The system will output a ranked list of 30 tailored recommendations.
-
-##  Repository Contents
-* `movie_recommendation.py` - The core application script containing data preprocessing, vector modeling, similarity calculations, and the interactive terminal loop.
